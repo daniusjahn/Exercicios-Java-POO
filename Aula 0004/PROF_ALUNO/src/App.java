@@ -8,6 +8,7 @@ public class App {
         aluno1.mostrarDados();
         aluno1.verificarNota();
         System.err.println("-----------------------------");
+        
         prof prof1 = new prof();
         prof1.nome = "Alexandre";
         prof1.idade = 25;
