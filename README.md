@@ -35,3 +35,6 @@ IntelliJ IDEA
 Eclipse
 VS Code
  com extensão Java
+# 🔹 Observações
+
+Este repositório é um material acadêmico e de estudo, portanto sinta-se à vontade para usar os exemplos como referência, sempre citando a fonte quando necessário.
